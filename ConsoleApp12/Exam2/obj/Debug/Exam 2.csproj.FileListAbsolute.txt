@@ -1,0 +1,7 @@
+C:\Users\Acerc\source\repos\ConsoleApp12\Exam2\bin\Debug\Exam2.exe.config
+C:\Users\Acerc\source\repos\ConsoleApp12\Exam2\bin\Debug\Exam2.exe
+C:\Users\Acerc\source\repos\ConsoleApp12\Exam2\bin\Debug\Exam2.pdb
+C:\Users\Acerc\source\repos\ConsoleApp12\Exam2\obj\Debug\Exam 2.csproj.AssemblyReference.cache
+C:\Users\Acerc\source\repos\ConsoleApp12\Exam2\obj\Debug\Exam 2.csproj.CoreCompileInputs.cache
+C:\Users\Acerc\source\repos\ConsoleApp12\Exam2\obj\Debug\Exam2.exe
+C:\Users\Acerc\source\repos\ConsoleApp12\Exam2\obj\Debug\Exam2.pdb
